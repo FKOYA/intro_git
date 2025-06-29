@@ -2,3 +2,4 @@ gitの練習をしていきます。
 木の適菜ワークフローを学びます。
 ・git add
 ・git commit
+・git rm
